@@ -4,4 +4,6 @@ sed command is something which allows you to replace, remove, add any strings an
 awk commands is somthing which allows you to manupilate the words in the file. IN other words it allows high level of filteration for file strings .
 
 grep command is something which allows you to filter particular string inside the file 
-find command is something we all are aware of. Find command is not just a simple tool to search anything by name ! you can filter searching using options like size, file type, name, empty files, permission, and many more ! 
+find command is something we all are aware of. Find command is not just a simple tool to search anything by name ! you can filter searching using options like size, file type, name, empty files, permission, and many more !
+
+these are some commands which can be used as a powerful tools to create scripts.for more information we can access manual pages of these commands or we can look for content over some blogs, such asgeeksforgeeks, techmint and many more.  
