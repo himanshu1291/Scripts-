@@ -3,4 +3,4 @@ most commonly used  commands in scripting are sed awk grep and find command.
 sed command is something which allows you to replace, remove, add any strings and line inside the file without opening it.
 awk commands is somthing which allows you to manupilate the words in the file. IN other words it allows high level of filteration for file strings .
 
-
+grep command is something which allows you to filter particular string inside the file 
